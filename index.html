@@ -146,7 +146,7 @@
         }
 
         .Employee .employee {
-            width: 50%;
+            width: 40%;
             justify-content: start;
             display: flex;
             align-items: start;
@@ -155,13 +155,13 @@
         }
 
         .Employee .companyname {
-            justify-content: end;
-            align-items: end;
+            justify-content: start;
+            align-items: start;
             flex-direction: column;
-            width: 50%;
-            display: static;
-            display: flex;
-            text-align: right;
+            width: 60%;
+            /* display: static;
+            
+            /* text-align: right; */
             display: flex;
 
         }
@@ -173,7 +173,7 @@
         }
 
         .Place .places {
-            padding-top: 20px;
+            padding-top: 10px;
             width: 50%;
         }
 
@@ -190,7 +190,7 @@
 
 
         .Employee h2 {
-            padding-top: 40px;
+            padding-top: 20px;
             display: flex;
         }
 
@@ -202,42 +202,82 @@
         .Thanks {
             font-size: 25px;
             text-align: center;
-            padding-top: 5px;
+            margin-top: 2px;
 
         }
 
         .footer2 {
-            
-margin-top: 0px;
+            /* display: flex; */
+/* margin-top: 2px; */
             border-top: 1px solid #111010;
             text-align: left;
             font-size: 15x;
             color: #141414;
+            /* padding-left: 5px; */
         }
 
         .footer2 p {
             margin: 0px;
         }
 
-        .Phone2 {
-            text-align: right;
+        .Phone2  {
+            display: flex;
+            justify-content: space-between;
+            text-align: left;
+           padding: 0px;
+           margin-top: 0px;
+        }
+        .Phone2 p{
+            margin: 0px;
+            padding: 0px;
+        }
+        .Eml2  {
+            display: flex;
+            justify-content: space-between;
+            text-align: left;
+           padding: 0px;
+           margin-top: 0px;
+        }
+        .Eml2 p{
+            margin: 0px;
+            padding: 0px;
         }
 
-        .footer1 {
-            margin-top: 35px;
-            padding-top: 5px;
+        .footer {
+            /* display: flex; */
+/* margin-top: 2px; */
             border-top: 1px solid #111010;
             text-align: left;
             font-size: 15x;
-            color: #0c0c0c;
+            color: #141414;
+            /* padding-left: 5px; */
         }
 
-        .footer1 p {
+        .footer p {
             margin: 0px;
         }
 
-        .Phone1 {
-            text-align: right;
+        .Phone  {
+            display: flex;
+            justify-content: space-between;
+            text-align: left;
+           padding: 0px;
+           margin-top: 0px;
+        }
+        .Phone p{
+            margin: 0px;
+            padding: 0px;
+        }
+        .Eml  {
+            display: flex;
+            justify-content: space-between;
+            text-align: left;
+           padding: 0px;
+           margin-top: 0px;
+        }
+        .Eml p{
+            margin: 0px;
+            padding: 0px;
         }
     </style>
 </head>
@@ -334,14 +374,22 @@ margin-top: 0px;
 
         </div>
 
-        <div class="footer1">
+        <div class="footer">
             <p>Address: #2-41/13/A, Prashanth Nagar Colony, Kondapur, Hyderabad, Telangana, 500084</p>
-            <p>Phone: +91 8886878067</p>
-            <p>Email: in@BankMaster.in</p>
         </div>
-        <div class="Phone1">
-            <p>Page 1 of 2</p>
-        </div>
+            <div class="Phone">
+            <p>Phone: +91 000000000</p>
+            <p>WWW.Bankmaster.in</p>
+            </div>
+            
+            
+           
+
+            <div class="Eml">
+                <p>Email: in@BankMaster.in</p>
+                <p>Page 2 of 2</p>
+
+            </div>
 
 
         <div class="Probation">
@@ -401,7 +449,7 @@ margin-top: 0px;
             </div>
             <div class="companyname">
                 <h2>M3 Avenue Financial Services Pvt.Ltd</h2>
-                <img src="M3 picture.jpg" width="30px" height="30px" alt="Nikita">
+                <img class="n2" src="M3 picture.jpg" width="70px" height="50px"; alt="Nikita">
                 <h2>Authorized Signatory</h2>
 
             </div>
@@ -426,20 +474,28 @@ margin-top: 0px;
             <h1>***THANK YOU***</h1>
 
         </div>
-    </div>
-    <div>
+    
+    
         <div class="footer2">
             <p>Address: #2-41/13/A, Prashanth Nagar Colony, Kondapur, Hyderabad, Telangana, 500084</p>
-            <p>Phone: +91 8886878067</p>
-            <p>Email: in@BankMaster.in</p>
-
-            <div class="Phone2">
-                <p>Page 2 of 2</p>
-            </div>
         </div>
+            <div class="Phone2">
+            <p>Phone: +91 000000000</p>
+            <p>WWW.Bankmaster.in</p>
+            </div>
+            
+            
+           
 
-    </div>
+            <div class="Eml2">
+                <p>Email: in@BankMaster.in</p>
+                <p>Page 2 of 2</p>
 
+            </div>
+        
+
+    
+</div>
 
 
 
