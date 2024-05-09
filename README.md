@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikiroy&label=Profile%20views&color=0e75b6&style=flat" alt="nikiroy" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Nativ**
 
-- 💬 Ask me about **Javascript,Nodejs**
+- 💬 Ask me about **Javascript,Nodejs,React**
 
 - 📫 How to reach me **niki.roy23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif
-"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif">
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikita-roy-6ba770248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikita-roy-6ba770248/" height="30" width="40" /></a>
